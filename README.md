@@ -22,7 +22,6 @@ cp .env.example .env
 composer install
 ```
 
-- install dependency
 ```
 npm install
 ```
