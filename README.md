@@ -13,14 +13,17 @@ git clone https://github.com/Earth-1218/laravel-chat.git
 - then copy .env from .env.example and configure it
 ```
 cp .env.example .env
-nano .env
 ```
 
 - at this step you need to configure your database name, and pusher creds, but i already fill it with dummy test.
+
+- install dependency
 ```
-#install dependency
 composer install
-#install assets
+```
+
+- install dependency
+```
 npm install
 ```
 
